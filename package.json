@@ -1,0 +1,16 @@
+{
+  "name": "spectrachain-cli",
+  "version": "1.0.0",
+  "description": "SpectraChain CLI",
+  "main": "bin/spectrachain-cli.js",
+  "scripts": {
+    "start": "node bin/spectrachain-cli.js"
+  },
+  "keywords": [],
+  "author": "KOSASIH",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "axios": "^0.21.1"
+  }
+}
