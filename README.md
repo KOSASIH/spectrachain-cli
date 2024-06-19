@@ -40,8 +40,8 @@ Spectrachain-cli is licensed under the Apache-2.0 License.
 
 ## Authors and Acknowledgments
 
-[KOSASIH] - Developer and Maintainer
-[Contributors] - Contributors to the project
+- [KOSASIH] - Developer and Maintainer
+- [Contributors] - Contributors to the project
 
 ## Project Status
 
